@@ -1,6 +1,6 @@
 {
   "name": "hubot-gist",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that list gists or get a single gist",
   "main": "index.js",
   "scripts": {
